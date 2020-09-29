@@ -1,0 +1,6 @@
+csv/
+pic/
+results/
+cleanJson/
+*.xlsx
+*.jpg
