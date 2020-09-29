@@ -2,7 +2,7 @@
 
 ## Some functions for fNIRS signals analysis
 
-# preprocessing 
-# Classification
-# Visualization
-# ANOVA Analysis
+### Processing 
+### Classification
+### Visualization
+### ANOVA Analysis
